@@ -1,0 +1,14 @@
+[
+    {
+        "claim_address": "0x2123e601f6bf7551f6e86e7d13e99cde43195ecb",
+        "amount": "1000000000"
+    },
+    {
+        "claim_address": "0xf800922d7f69677dc0c26d53894a38c89f77968f",
+        "amount": "5000000000",
+        "vesting": { 
+          "start_time": "1738843200",
+          "end_time": "1801915200"
+        }
+    }
+]
