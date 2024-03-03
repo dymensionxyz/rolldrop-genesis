@@ -37,7 +37,7 @@ To run the Rolldrop Genesis Tool, you will need Python installed on your system.
    - `<base_denom>`: The base denomination for the chain (e.g., "adym" for Dymension).
    - `<bech32_prefix>`: The prefix for the Bech32 addresses specific to your blockchain (e.g., "dym" for Dymension addresses).
    - `<input_genesis_file_path>`: The file path to the input genesis file that you want to modify. Should be a valid genesis file.
-   - `<accounts_file_path>`: The file path to the JSON file containing the acocunt allocations. 
+   - `<accounts_file_path>`: The file path to the JSON file containing the account allocations. 
    - `<output_genesis_file_path>`: The desired file path for the output genesis file with the airdrop allocations included.
 
 ## Example
